@@ -6,3 +6,5 @@ This is just a playground for git branching/rebasing/pull-requests etc...
 002 This is the second commit
 
 002-01 This is the first commit in a branch
+
+002-02 This is the second commit in a branch
