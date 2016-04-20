@@ -16,3 +16,5 @@ This is just a playground for git branching/rebasing/pull-requests etc...
 004 This is the fourth commit
 
 004-01
+
+004-02
